@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a5963014-86cb-4e28-b12c-8c5362696ae5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/DesignPattern/src/Audience.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/DesignPattern/src/Bag.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/DesignPattern/src/Invitation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/DesignPattern/src/Theater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/DesignPattern/src/Ticket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/DesignPattern/src/TicketOffice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/DesignPattern/src/TicketSeller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,15 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="DFS_graph.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Graph/src/DFS_graph.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1380">
-              <caret line="73" column="9" selection-start-line="73" selection-start-column="9" selection-end-line="73" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="DesignPattern.iml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/OOP/DesignPattern/DesignPattern.iml">
           <provider selected="true" editor-type-id="text-editor">
@@ -43,7 +27,7 @@
         <entry file="file://$PROJECT_DIR$/OOP/DesignPattern/src/Invitation.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="6" column="2" lean-forward="true" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+              <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -132,7 +116,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Theater.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Theater.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/OOP/DesignPattern/src/Theater.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="460">
@@ -143,6 +127,20 @@
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="~.gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/~.gitignore">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -170,6 +168,7 @@
         <option value="$PROJECT_DIR$/OOP/DesignPattern/src/TicketOffice.java" />
         <option value="$PROJECT_DIR$/OOP/DesignPattern/src/TicketSeller.java" />
         <option value="$PROJECT_DIR$/OOP/DesignPattern/src/Theater.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -182,9 +181,9 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1490" />
-    <option name="y" value="126" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1578" />
+    <option name="y" value="112" />
     <option name="width" value="1400" />
     <option name="height" value="877" />
   </component>
@@ -253,7 +252,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="settings.editor.selected.configurable" value="com.chrisrm.idea.config" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -335,15 +334,15 @@
       <workItem from="1576394487929" duration="3171000" />
       <workItem from="1580304731133" duration="1186000" />
       <workItem from="1580450331613" duration="612000" />
-      <workItem from="1580826594511" duration="2020000" />
+      <workItem from="1580826594511" duration="4125000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11718000" />
+    <option name="totallyTimeSpent" value="13823000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1490" y="126" width="1400" height="877" extended-state="0" />
+    <frame x="1440" y="23" width="1920" height="1057" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -359,7 +358,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18229167" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -568,7 +567,7 @@
     <entry file="file://$PROJECT_DIR$/OOP/DesignPattern/src/Invitation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="6" column="2" lean-forward="true" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
         </state>
       </provider>
     </entry>
@@ -661,6 +660,16 @@
             <element signature="e#117#118#0" expanded="true" />
             <element signature="e#164#165#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/~.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
